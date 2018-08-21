@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\075965824161ed65e3762ef64a7d4d425a5cfd8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\HP\Desktop\b\interviewproject\Week8homework2\app\build\intermediates\pre-dexed\debug\classes_6a9c79a5f0202a70a38076037819c8dab09f65d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\cc12b284a302b4c575ced53221e882209b1adfe5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\HP\Desktop\b\interviewproject\Week8homework2\app\build\intermediates\pre-dexed\debug\classes_4e0f7647dc3f2c46467d3885cda1d99a2898fb84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\HP\Desktop\b\interviewproject\Week8homework2\app\build\intermediates\pre-dexed\debug\gson-2.8.2_fcc4e5aef0e5a9ac0691296eadb4deaf2e4c080d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\d18630d4f7d90741eb0bd018e70778e75bf391f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\HP\Desktop\b\interviewproject\Week8homework2\app\build\intermediates\pre-dexed\debug\classes_a8d43cbd8dad3b498d70b2adabe3a2133de888d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\3f75e6a442020cf148ac8a9454a6b6e2a9c823b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\HP\Desktop\b\interviewproject\Week8homework2\app\build\intermediates\pre-dexed\debug\classes_49a06f91ab52c0bf4dfc5e8b832ad7fd39fa05e3.jar" />
+    </item>
+
+</items>
